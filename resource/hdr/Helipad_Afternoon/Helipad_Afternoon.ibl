@@ -1,0 +1,44 @@
+[Header]
+ICOfile = "LA_Downtown_Afternoon_Fishing_thumb.jpg"
+PREVIEWfile = "LA_Downtown_Afternoon_preview.jpg"
+Name = "Helipad Afternoon"
+Author = "Blochi"
+Location = "Los Angeles"
+Comment = "Downtown LA, fishing from the edge of the building, fake aereal in bright daylight"
+GEOlat = 34.0536079405555510
+GEOlong = -118.2563934325000000
+Date = "2009:08:25"
+Time = "17:55:00"
+Height = 30.000000
+
+[Background]
+BGfile = "LA_Downtown_Afternoon_Fishing_B_8k.jpg"
+BGmap = 1
+BGu = 0.000000
+BGv = 0.000000
+BGheight = 4096
+
+[Enviroment]
+EVfile = "LA_Downtown_Afternoon_Fishing_Env.hdr"
+EVmap = 1
+EVu = 0.000000
+EVv = 0.000000
+EVheight = 180
+EVmulti = 1.000000
+EVgamma = 1.500000
+
+[Reflection]
+REFfile = "LA_Downtown_Afternoon_Fishing_3k.hdr"
+REFmap = 1
+REFu = 0.000000
+REFv = 0.000000
+REFheight = 1800
+REFmulti = 1.000000
+REFgamma = 1.700000
+
+[Sun]
+SUNcolor = 253,255,255
+SUNmulti = 1.015216
+SUNu = 0.788000
+SUNv = 0.392000
+

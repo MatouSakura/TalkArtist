@@ -1,0 +1,45 @@
+[Header]
+ICOfile = "PaperMill_E_Thumb.jpg"
+PREVIEWfile = "PaperMill_E_preview.jpg"
+Name = "Papermill Ruins E"
+Author = "Blochi"
+Location = "Halle"
+Comment = "Abandoned and burned out factory, daylight, plants, high walls"
+GEOlat = 51.4630820000000000
+GEOlong = 11.9488360000000000
+Link = "http://www.hdrlabs.com/sibl/archive.html"
+Date = "2009:08:04"
+Time = "20:19:48"
+Height = 1.200000
+
+[Background]
+BGfile = "PaperMill_E_8k.jpg"
+BGmap = 1
+BGu = 0.000000
+BGv = 0.000000
+BGheight = 4096
+
+[Enviroment]
+EVfile = "PaperMill_E_Env.hdr"
+EVmap = 1
+EVu = 0.000000
+EVv = 0.000000
+EVheight = 180
+EVmulti = 1.000000
+EVgamma = 1.700000
+
+[Reflection]
+REFfile = "PaperMill_E_3k.hdr"
+REFmap = 1
+REFu = 0.000000
+REFv = 0.000000
+REFheight = 1600
+REFmulti = 1.000000
+REFgamma = 1.700000
+
+[Sun]
+SUNcolor = 255,212,194
+SUNmulti = 0.921501
+SUNu = 0.838000
+SUNv = 0.324000
+
