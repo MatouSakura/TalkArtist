@@ -4,4 +4,4 @@
 
 Opengl renderer
 
-Launch TalkRenderer.exe.
+Launch TalkRenderer.exe
