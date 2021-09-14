@@ -6,5 +6,5 @@ Opengl renderer
 
 Launch TalkRenderer.exe
 
-![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210913171111.JPG)
+![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210914104448.jpg)
 
